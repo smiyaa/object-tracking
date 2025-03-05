@@ -28,7 +28,7 @@ wget https://github.com/ultralytics/assets/releases/download/v8.0.0/yolov8s.pt
 3. Run the script:
 
 ```bash
-python vehicle_counter.py
+python traffic.py
 ```
 
 4. Press `q` to exit the video window.
